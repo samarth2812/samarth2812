@@ -1,7 +1,7 @@
 
 <h1 align="center">   printf("Hello World") , I'm Samarth👋</h1>
 
-<img src="display.gif" width="400px" alt="GIF" align="right"> 
+<img src="logo.png" width="400px" alt="GIF" align="right"> 
 
 - 🔭 I’m a frontend web Developer
 - 🌱 I’m currently learning Deep Learning & improving my Problem Solving skills
