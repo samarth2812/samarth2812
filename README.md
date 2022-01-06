@@ -1,8 +1,8 @@
 
 <h1 align="center">   printf("Hello World") , I'm Samarth <img src="https://img.icons8.com/emoji/48/000000/waving-hand-emoji.png"/></h1>
+<img align = "center" src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-male-coding-and-development-flat-flat-juicy-fish.png"/>
 
 
-<img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-male-coding-and-development-flat-flat-juicy-fish.png"/>
 - 🔭 I’m a frontend web Developer
 - 🌱 I’m currently learning Deep Learning & improving my Problem Solving skills.
 - 👯 I’m looking to collaborate for projects and hackathons.
