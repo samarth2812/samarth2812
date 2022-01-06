@@ -1,6 +1,6 @@
 
 <h1 align="center">   printf("Hello World") , I'm Samarth👋</h1>
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<iframe src="https://giphy.com/embed/3o7bu6KDIpS4OFRP6o" width="451" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/smile-face-hi-3o7bu6KDIpS4OFRP6o">via GIPHY</a></p>
 
 - 🔭 I’m a frontend web Developer
 - 🌱 I’m currently learning Deep Learning & improving my Problem Solving skills.
