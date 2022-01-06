@@ -1,7 +1,6 @@
 
 <h1 align="center">   printf("Hello World") , I'm Samarth👋</h1>
-
-
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🔭 I’m a frontend web Developer
 - 🌱 I’m currently learning Deep Learning & improving my Problem Solving skills.
