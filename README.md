@@ -16,7 +16,8 @@
 <p align="center">
   <em>
     Holaa, I am Samarth Dhawan a <b>3rd year</b> undergraduate from <a href="https://uom.lk/"> <b>SRM Institute of Science and Technology</b>,Chennai, India </a>. <br>
-    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning enthusiastic</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,
+    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning enthusiastic</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">
+   <br><b>I love to travel ✈️🌎 and i'm a big foodie🍔🍟🍛
   </em> 
   <br>
 </p>
