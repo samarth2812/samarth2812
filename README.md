@@ -1,6 +1,7 @@
 
 <h1 align="center"> Hi there 👋  </h1>
-![giphy](https://user-images.githubusercontent.com/83126069/213917705-7fb0340c-e4bb-4dff-bba1-4cf78dd2e097.gif)
+<div style="width:100%;height:0;padding-bottom:73%;position:relative;"><iframe src="https://giphy.com/embed/Wj7lNjMNDxSmc" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dog-miss-Wj7lNjMNDxSmc">via GIPHY</a></p>
+
 
 
 <!-- <img align = "center" src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-male-coding-and-development-flat-flat-juicy-fish.png"/> -->
