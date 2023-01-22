@@ -1,5 +1,7 @@
 
 <h1 align="center"> Hi there 👋  </h1>
+![giphy](https://user-images.githubusercontent.com/83126069/213917705-7fb0340c-e4bb-4dff-bba1-4cf78dd2e097.gif)
+
 
 <!-- <img align = "center" src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-male-coding-and-development-flat-flat-juicy-fish.png"/> -->
 
