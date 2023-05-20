@@ -1,52 +1,46 @@
 
-<h1 align="center"> Hi there 👋  </h1>
-<div style="width:100%;height:0;padding-bottom:73%;position:relative;"><iframe src="https://giphy.com/embed/Wj7lNjMNDxSmc" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dog-miss-Wj7lNjMNDxSmc">via GIPHY</a></p>
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=500&size=25&pause=1000&color=1461C3&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Samarth+Dhawan...;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+A+Frontend+Developer;%F0%9F%A7%97Who+loves+travelling)](https://git.io/typing-svg)
+
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
+- :school: I am a `Final year Student` at [SRM Institute of Science and Technology](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Suez Canal University](http://suez.edu.eg/ar/).
+- :trophy: Won Hackathons - Dcomm Hackathon,SRM Mentorship... 
+- :technologist: I love using Software as a solution for every `Problem`.
+- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :nerd_face: Always `learning new things`.
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1HJPfZ5X6ltca4xa8q_6yryfFLTf7EVlR/view?usp=sharing).
+<!-- - :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website). -->
+<br>
 
 
 
-<!-- <img align = "center" src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-male-coding-and-development-flat-flat-juicy-fish.png"/> -->
-
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=samarth2812&color=brightgreen" alt="watching_count" />
- </p>
- <p align="center">
-<img src="https://img.shields.io/badge/Age-21-blue" />
-  <img src="https://img.shields.io/badge/Focus-Machine%20Learning%20%26%20Web%20Development-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-India%20-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20-brightgreen" />
-</p>
-
-<p align="center">
-  <em>
-    Holaa, I am Samarth Dhawan a <b>3rd year</b> undergraduate from <a href="https://uom.lk/"> <b>SRM Institute of Science and Technology</b>,Chennai, India </a>. <br>
-    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning enthusiastic</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">
-   <br><b>I love to travel ✈️🌎 and i'm a big foodie🍔🍟🍛
-  </em> 
-  <br>
-</p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-
-  <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Contibution Activity</b></i></p>
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarth2812&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=samarth2812&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
-
-
-## Connect with Me
-
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/samarth-dhawan-a317821aa/"><img alt="Linkedin" title="Samarth Dhawan Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/samarth2812"><img alt="Github" title="Samarth Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="mailto:sd2140@srmist.edu.in"><img alt="Gmail" title="Samarth Dhawan Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
 
 
 
-<!-- 
-  <br />[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/samarth-dhawan-a317821aa/)  &nbsp;
-   <a href="mailto:samarthdhawan28@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
-  #### Here is What i'm working on! -->
+
+
+
+
+
+
+## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<br>
+<div align='left'>
+
+<ul>
+
+<li>
+<a href="https://www.linkedin.com/in/samarth-dhawan-a317821aa/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin: Samarth_Dhawan-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
