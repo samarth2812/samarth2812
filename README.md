@@ -11,7 +11,7 @@
 </div>
 <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-- :school: I am a `Final year Student` at [SRM Institute of Science and Technology](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Suez Canal University](http://suez.edu.eg/ar/).
+- :school: I am a `Final year Student` at [SRM Institute of Science and Technology](https://www.srmist.edu.in/).
 - :trophy: Won Hackathons - Dcomm Hackathon,SRM Mentorship... 
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
