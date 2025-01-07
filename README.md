@@ -11,7 +11,7 @@
 </div>
 <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-- :school: I am a `Final year Student` at [SRM Institute of Science and Technology](https://www.srmist.edu.in/).
+- :school: I am a `Bachelor’s degree student in Computer Science Engineering` at [SRM Institute of Science and Technology](https://www.srmist.edu.in/).
 - :trophy: Won Hackathons - Dcomm Hackathon,SRM Mentorship... 
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
