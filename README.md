@@ -1,4 +1,3 @@
-<img width="261" height="289" alt="Hi" src="https://github.com/user-attachments/assets/ba4c14fc-1f87-45e9-a607-7ceba33f85a1" />
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
