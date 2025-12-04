@@ -1,6 +1,3 @@
-<img width="722" height="392" alt="{26C09A5E-387E-43C6-B60E-0CC808FA038F}" src="https://github.com/user-attachments/assets/9a1e742f-20dc-492b-b395-6586443b07e2" />
-
-<img width="742" height="384" alt="{434158A9-2D9C-4AF8-AE6F-CFD85731CB38}" src="https://github.com/user-attachments/assets/06bc3077-741f-4b46-8246-f84c56fbf74c" />
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
